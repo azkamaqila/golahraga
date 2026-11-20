@@ -1,0 +1,6 @@
+{
+  "name": "Golahraga",
+  "description": "Platform digital sewa coach dan pemain olahraga basket, futsal, dan sepak bola terdekat dengan transparansi biaya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
